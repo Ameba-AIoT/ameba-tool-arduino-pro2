@@ -36,7 +36,7 @@
         },
         "iq_data": {
             "source":"binary",
-            "file":"iq_k306_hd.bin"
+            "file":"iq_k306p_hd.bin"
         },
         "sensor_data": {
             "source":"binary",
